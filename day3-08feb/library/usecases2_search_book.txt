@@ -1,0 +1,5 @@
+s1:start
+s2:declare book name or book number you want
+s3:Identify in the book section where book is there
+s4:Take that book and read
+s5:stop

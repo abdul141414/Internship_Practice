@@ -1,0 +1,6 @@
+step1:start
+step2:search the book from library
+step2:identify the book or book number you want to borrow.
+step3:ask librarian about book that you are borrowing
+step4:librarian note the borrower name ,return date,book ,book number etc
+step5:stop

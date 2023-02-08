@@ -1,0 +1,4 @@
+s1:start
+s2:Take set of book from section 
+s3:give a set of code contains the symbol to identify the rack or section with indentical number
+s4:stop 

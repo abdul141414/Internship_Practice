@@ -1,0 +1,12 @@
+s1: start
+s2: go to atm
+s3: insert ur atm card
+s4: enter ur pin
+s5: click on the deposit option from the given set of 
+    options
+s6: enter the amount to deposit
+s7: enter the number of notes with respect to 100,200,500,2000 in the given options
+s8: if the the details are crct then go to step9 else step6
+s9: keep the amount on the cash collecting area
+s10: get the recipet 
+s11: stop

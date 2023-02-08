@@ -1,0 +1,5 @@
+s1:start
+s2:Take all the book which are available
+s3:separate the diffrent topic of books
+s4:Arrange the book in different section or different racks
+s5:stop

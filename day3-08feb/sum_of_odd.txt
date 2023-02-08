@@ -1,0 +1,12 @@
+step1:start
+step2:declare i,n,sum
+step3:read n
+step 4:intiaize i value i=0
+step5:intialize sum variable with zero, sum=0
+step6:check i value with n if(i<=n) true the go to step 7 else goto step11
+step7:check i%2!==0 if true goto step 8 else goto step9 
+step8:add sum value with i value and store the result in sum variable
+           sum=sum+i//1
+step9:increment i then go to step6
+step 10:display/print sum value
+step 11:stop

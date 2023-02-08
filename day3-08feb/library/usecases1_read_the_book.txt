@@ -1,0 +1,7 @@
+s1:start
+s2:Search for book in the library
+s3:choose and goto section of book
+s4:select the book you want to read
+s5:tell Librarian the book name and book number you want.
+s6:Take that book and read
+s7:stop

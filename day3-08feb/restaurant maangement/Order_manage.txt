@@ -1,0 +1,7 @@
+step1:start
+step2:collect order from the customer from menu of the restaurant
+step3:check the availability of the food 
+step4:if not available inform to customer its not available
+step5:else 
+      give instruction to kitchen of the restaurant
+step6:stop

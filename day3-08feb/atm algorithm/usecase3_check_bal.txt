@@ -1,0 +1,8 @@
+s1: start
+s2: go to atm
+s3: insert ur card
+s4: enter ur pin
+s5: if entered pin is crct then the go to step6 else go to step4
+s6: click on check balance option
+s7: view your balance
+s8: stop

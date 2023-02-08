@@ -1,0 +1,5 @@
+s1:start
+s2:Return the book to the libererian on time
+s3:write return date and sign in librarians log book
+s4:librarian will assign the book and keep on the rack
+s5:stop

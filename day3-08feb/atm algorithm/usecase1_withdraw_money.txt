@@ -1,0 +1,12 @@
+s1: start
+s2: go to atm
+s3: insert your atm card
+s4: enter your pin
+s5: click on the withdraw option from the given set of 
+    options
+s6: enter the amount to be withdrawn
+s7: click next if the entered amount is true else clear 
+    and go to step6 
+s8: if sufficient amount is found then dispense the amount
+    else go to step6
+s9: stop

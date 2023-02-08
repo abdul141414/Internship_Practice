@@ -1,0 +1,9 @@
+s1:start
+s2:declare n
+s3:read n
+s4:initialize i value i=0
+s5:check i value with n(i<=n)if true goto ste6 
+s6:check i%2==0 if true goto step7 if else goto step8
+s6:display i
+s7:increament i goto step5
+s8:stop

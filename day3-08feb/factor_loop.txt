@@ -1,0 +1,7 @@
+s1:start
+s2:delclare i,n
+s3:read n
+s4:initialize i=1
+s5:check i with n(i<=n) if tru goto step6 ifelse goto s7
+s6:if(n%i==0)print i increament i goto s5
+s7:stop

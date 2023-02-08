@@ -1,0 +1,11 @@
+s1: start
+s2: go to atm
+s3: insert your card
+s4: enter the pin
+s5: if entered pin is crct then the go to step6 else go to step4
+s6: click on change pin option
+s7: enter ur mobile number  
+s8:if entered mobile number id crct go to step9 else go to step7
+s9: enter your new pin
+s10: confirm your new pin
+s11: stop
